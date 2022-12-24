@@ -1,0 +1,4 @@
+To do
+- Belajar Python
+- Web Frontend
+- Web Backend
